@@ -1,97 +1,51 @@
-<h1 align="center">Hi, I'm Anup 👋</h1>
+<h1>Anup</h1>
 
-<p align="center">
-  <b>Aspiring Machine Learning & AI Engineer</b>
-</p>
-
-<p align="center">
-  Passionate about Machine Learning, Deep Learning, and building intelligent systems.
-</p>
-
----
-
-## 🚀 About Me
-
-- 📚 Currently focused on Machine Learning, AI, and Software Development
-- 🧠 Learning through projects, experimentation, and consistent practice
-- ⚡ Interested in Deep Learning, LLMs, and AI Systems
-- 🔍 Enjoy solving problems and understanding how things work internally
-- 📈 Focused on long-term growth and strong fundamentals
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,java" />
+  <b>Machine Learning &amp; AI Engineer — in training</b><br>
+  Self-directed learner building ML systems from first principles.
 </p>
 
-### 📚 Libraries & Tools
+---
+
+## About
+
+I focus on understanding machine learning deeply — the mathematics, the models, and the engineering that surrounds them — rather than only stringing libraries together. I learn by building projects end to end and revisiting the fundamentals until they hold up.
+
+Currently working through:
+
+- Deep learning and the PyTorch / transformer stack
+- The mathematics behind ML — linear algebra, calculus, and probability
+- Software engineering fundamentals — clean, modular code, Git, and deployment
+- The early road into LLM engineering and applied AI
+
+## Selected work
+
+I learn by shipping, not by collecting tutorials. Recent projects span:
+
+- **Tabular ML** — feature engineering, pipelines, and gradient boosting on Kaggle competitions (XGBoost, LightGBM)
+- **Neural networks** — classifiers and regressors in Keras, with regularization and dropout experiments
+- **Unsupervised learning** — clustering and dimensionality reduction (K-means, PCA)
+- **NLP** — text classification comparing TF-IDF and embedding-based approaches
+
+You'll find these in the repositories below — all works in progress, improving with each commit.
+
+## Toolbox
+
+**Languages** — Python, SQL, Java
+
+**ML &amp; Data** — NumPy, Pandas, scikit-learn, XGBoost, LightGBM, TensorFlow / Keras, Matplotlib
+
+**Tooling** — Git, GitHub, VS Code, Jupyter / Kaggle
+
+## How I work
+
+- Fundamentals before frameworks
+- Depth over breadth
+- Honest about what I understand — and what I don't, yet
+- Consistency over shortcuts
+
+## GitHub
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,git,github,vscode" />
-</p>
-
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-
----
-
-## 🤖 Machine Learning
-
-- Linear Regression
-- Logistic Regression
-- Decision Trees
-- Random Forest
-- Basic Neural Networks
-- Data Preprocessing
-- Model Evaluation
-
----
-
-## 🌱 Currently Learning
-
-- Deep Learning
-- Mathematics for Machine Learning
-- Data Structures & Algorithms
-- Advanced SQL Concepts
-- LLM Engineering
-
----
-
-## 📌 Goals
-
-- Build real-world AI/ML projects
-- Strengthen software engineering skills
-- Explore advanced deep learning concepts
-- Learn and experiment with LLM systems
-- Grow as an ML/AI Engineer
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anupml&show_icons=true&hide_border=true" height="160"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupml&layout=compact&hide_border=true" height="160"/>
-</p>
-
----
-
-## ⚡ Current Mindset
-
-```python
-while True:
-    learn()
-    build()
-    improve()
-```
-
----
-
-<p align="center">
-  ⭐ Consistency over shortcuts.
+  <img src="https://github-readme-stats.vercel.app/api?username=anupml&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupml&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150"/>
 </p>
